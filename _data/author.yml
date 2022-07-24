@@ -1,0 +1,24 @@
+name: Nikhil Upadhyay
+dp: https://avatars.githubusercontent.com/u/53979129?v=4
+description: "
+  <p>
+    Hi, I am Nikhil Upadhyay, a Software Engineer who lives in India building different things and loves to talk about JavaScript, 
+    TypeScript based technologies.
+  </p>
+  <br/>
+  <p>
+    You can follow me on <a href='https://twitter.com/_headless_coder' target='_blank'>Twitter</a>
+  </P>
+"
+email: nikhil9690@gmail.com
+contact:
+  - title: linkedin
+    url: https://www.linkedin.com/in/nikhil-upadhyay-166673150/
+  - title: github
+    url: https://github.com/jerrycode06
+  - title: twitter
+    url: https://twitter.com/_headless_coder
+  - title: dev
+    url: https://dev.to/jerrycode06
+  - title: email
+    url: mailto:nikhil9690@gmail.com
